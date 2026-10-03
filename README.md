@@ -20,3 +20,11 @@ This repository focuses on advanced mathematical optimization and evolutionary c
 * **Constrained & Unconstrained Optimization**: BFGS, Nelder-Mead, SLSQP, and Penalty Method handling.
 * **Operations Research**: Facility Location, Knapsack Combinatorial Optimization, and Parameter Regression.
 * **Scientific Visualization**: 3D surface plotting (`matplotlib` / `mpl_toolkits`) for visualizing cost functions and convergence paths.
+
+## 📌 Acknowledgments & Context
+The foundational concepts and initial Python scripts for these projects were developed as part of my undergraduate coursework at the **University of West Attica (Biomedical Engineering)**. 
+
+The current repository represents a heavily refactored and optimized evolution of those academic assignments. The original procedural Python code has been reorganized into robust Object-Oriented pipelines, adhering to modern software engineering practices and industry standards for scalability and readability.
+
+---
+*Curated, refactored, and optimized by a final-year Biomedical Engineering student (University of West Attica), specializing in AI and Medical Data Science.*
