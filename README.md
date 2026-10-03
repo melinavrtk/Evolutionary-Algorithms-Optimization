@@ -2,7 +2,7 @@
 
 This repository focuses on advanced mathematical optimization and evolutionary computation techniques. It implements both unconstrained/constrained optimization algorithms and population-based Genetic Algorithms (GAs) to solve complex engineering, regression, and combinatorial problems using Python (`scipy`, `numpy`, `scikit-opt`).
 
-## 📂 Repository Contents
+## Repository Contents
 
 ### 1. Genetic Algorithms (GAs) & Combinatorial Optimization
 * **`zakharov_genetic_algorithm.py`**: Optimizes the complex multi-variable Zakharov test function using a custom-configured Genetic Algorithm (custom population size, elite count, and bounds).
@@ -15,13 +15,13 @@ This repository focuses on advanced mathematical optimization and evolutionary c
 * **`constrained_optimization.py`**: Handles bounded domains and equality constraints (equivalent to MATLAB's `fmincon` using SciPy's SLSQP method).
 * **`nelder_mead_optimization.py`**: Implements the Nelder-Mead simplex algorithm (`fminsearch` equivalent) for robust derivative-free optimization.
 
-## 🛠️ Skills & Technologies Highlighted
+## Skills & Technologies Highlighted
 * **Evolutionary Computation**: Genetic Algorithms (Selection, Crossover, Mutation, Elitism).
 * **Constrained & Unconstrained Optimization**: BFGS, Nelder-Mead, SLSQP, and Penalty Method handling.
 * **Operations Research**: Facility Location, Knapsack Combinatorial Optimization, and Parameter Regression.
 * **Scientific Visualization**: 3D surface plotting (`matplotlib` / `mpl_toolkits`) for visualizing cost functions and convergence paths.
 
-## 📌 Acknowledgments & Context
+## Acknowledgments & Context
 The foundational concepts and initial Python scripts for these projects were developed as part of my undergraduate coursework at the **University of West Attica (Biomedical Engineering)**. 
 
 The current repository represents a heavily refactored and optimized evolution of those academic assignments. The original procedural Python code has been reorganized into robust Object-Oriented pipelines, adhering to modern software engineering practices and industry standards for scalability and readability.
